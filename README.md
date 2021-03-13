@@ -2,12 +2,8 @@
 
 Projects will be pushed after final changes.
 
-Github Pages:
+Repository Links:
 
-Sanya https://kumartushar593.github.io/Business-Website-Sanya
+Rayman https://github.com/kumar-tushar/Business-Website-by-Mentee-Rayman
 
-Rayman https://kumartushar593.github.io/Business-Website-Rayman
 
-Manisha https://kumartushar593.github.io/Business-Website-Manisha
-
-Jahanvi https://kumartushar593.github.io/Business-Website-Jahanvi
